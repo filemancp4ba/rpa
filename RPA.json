@@ -1,0 +1,266 @@
+{
+  "TIME": "2022-09-24",
+  "FAMILIES": [
+    {
+      "name": "FAMILY1",
+      "repcomponents": {
+        "repids": [
+          {
+            "id": 101,
+            "ratio": 1,
+            "value": 100
+          },
+          {
+            "id": 102,
+            "ratio": 2,
+            "value": 110
+          },
+          {
+            "id": 103,
+            "ratio": 4,
+            "value": 20
+          }
+        ]
+      },
+      "stockTable": {
+        "rows": [
+          {
+            "id": 101,
+            "cells": [
+              {
+                "amount": 7,
+                "location": "CDC023"
+              },
+              {
+                "amount": 1,
+                "location": "CDC025"
+              }
+            ],
+            "grand total": 8
+          },
+          {
+            "id": 102,
+            "cells": [
+              {
+                "amount": 18,
+                "location": "CDC023"
+              },
+              {
+                "amount": 3,
+                "location": "CDC025"
+              }
+            ],
+            "grand total": 21
+          },
+          {
+            "id": 103,
+            "cells": [
+              {
+                "amount": 6,
+                "location": "CDC023"
+              },
+              {
+                "amount": 54,
+                "location": "CDC025"
+              }
+            ],
+            "grand total": 60
+          }
+        ]
+      }
+    },
+    {
+      "name": "FAMILY2",
+      "repcomponents": {
+        "repids": [
+          {
+            "id": 201,
+            "ratio": 1,
+            "value": 500
+          },
+          {
+            "id": 202,
+            "ratio": 2,
+            "value": 50
+          },
+          {
+            "id": 203,
+            "ratio": 4,
+            "value": 30
+          },
+          {
+            "id": 204,
+            "ratio": 10,
+            "value": 8
+          }
+        ]
+      },
+      "stockTable": {
+        "rows": [
+          {
+            "id": 201,
+            "cells": [
+              {
+                "amount": 7,
+                "location": "CDC023"
+              },
+              {
+                "amount": 1,
+                "location": "CDC025"
+              }
+            ],
+            "grand total": 8
+          },
+          {
+            "id": 202,
+            "cells": [
+              {
+                "amount": 18,
+                "location": "CDC023"
+              },
+              {
+                "amount": 3,
+                "location": "CDC025"
+              }
+            ],
+            "grand total": 21
+          },
+          {
+            "id": 203,
+            "cells": [
+              {
+                "amount": 6,
+                "location": "CDC023"
+              },
+              {
+                "amount": 54,
+                "location": "CDC025"
+              }
+            ],
+            "grand total": 60
+          },
+          {
+            "id": 204,
+            "cells": [
+              {
+                "amount": 60,
+                "location": "CDC023"
+              },
+              {
+                "amount": 104,
+                "location": "CDC025"
+              }
+            ],
+            "grand total": 174
+          }
+        ]
+      }
+    },
+    {
+      "name": "FAMILY3",
+      "repcomponents": {
+        "repids": [
+          {
+            "id": 301,
+            "ratio": 1,
+            "value": 500
+          },
+          {
+            "id": 302,
+            "ratio": 2,
+            "value": 50
+          },
+          {
+            "id": 303,
+            "ratio": 4,
+            "value": 30
+          },
+          {
+            "id": 304,
+            "ratio": 10,
+            "value": 8
+          },
+          {
+            "id": 305,
+            "ratio": 2,
+            "value": 88
+          }
+        ]
+      },
+      "stockTable": {
+        "rows": [
+          {
+            "id": 301,
+            "cells": [
+              {
+                "amount": 7,
+                "location": "CDC023"
+              },
+              {
+                "amount": 1,
+                "location": "CDC025"
+              }
+            ],
+            "grand total": 8
+          },
+          {
+            "id": 302,
+            "cells": [
+              {
+                "amount": 18,
+                "location": "CDC023"
+              },
+              {
+                "amount": 3,
+                "location": "CDC025"
+              }
+            ],
+            "grand total": 21
+          },
+          {
+            "id": 303,
+            "cells": [
+              {
+                "amount": 6,
+                "location": "CDC023"
+              },
+              {
+                "amount": 54,
+                "location": "CDC025"
+              }
+            ],
+            "grand total": 60
+          },
+          {
+            "id": 304,
+            "cells": [
+              {
+                "amount": 60,
+                "location": "CDC023"
+              },
+              {
+                "amount": 104,
+                "location": "CDC025"
+              }
+            ],
+            "grand total": 174
+          },
+          {
+            "id": 305,
+            "cells": [
+              {
+                "amount": 0,
+                "location": "CDC023"
+              },
+              {
+                "amount": 4,
+                "location": "CDC025"
+              }
+            ],
+            "grand total": 4
+          }
+        ]
+      }
+    }
+  ]
+}
