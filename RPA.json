@@ -3,7 +3,12 @@
   "FAMILIES": [
     {
       "name": "FAMILY1",
-      "repcomponents": {
+      "coreComponents": {
+        "ids": [
+          102
+        ]
+      },
+      "componentRatioList": {
         "repids": [
           {
             "id": 101,
@@ -71,7 +76,12 @@
     },
     {
       "name": "FAMILY2",
-      "repcomponents": {
+      "coreComponents": {
+        "ids": [
+          202
+        ]
+      },
+      "componentRatioList": {
         "repids": [
           {
             "id": 201,
@@ -158,7 +168,12 @@
     },
     {
       "name": "FAMILY3",
-      "repcomponents": {
+      "coreComponents": {
+        "ids": [
+          302
+        ]
+      },
+      "componentRatioList": {
         "repids": [
           {
             "id": 301,
