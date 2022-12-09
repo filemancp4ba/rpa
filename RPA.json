@@ -9,25 +9,25 @@
         ]
       },
       "componentRatioList": {
-        "repids": [
+        "componentRatios": [
           {
-            "id": 101,
+            "componentId": 101,
             "ratio": 1,
             "value": 100
           },
           {
-            "id": 102,
+            "componentId": 102,
             "ratio": 2,
             "value": 110
           },
           {
-            "id": 103,
+            "componentId": 103,
             "ratio": 4,
             "value": 20
           }
         ]
       },
-      "stockTable": {
+      "DCGStockTable": {
         "rows": [
           {
             "id": 101,
@@ -82,30 +82,30 @@
         ]
       },
       "componentRatioList": {
-        "repids": [
+        "componentRatios": [
           {
-            "id": 201,
+            "componentId": 201,
             "ratio": 1,
             "value": 500
           },
           {
-            "id": 202,
+            "componentId": 202,
             "ratio": 2,
             "value": 50
           },
           {
-            "id": 203,
+            "componentId": 203,
             "ratio": 4,
             "value": 30
           },
           {
-            "id": 204,
+            "componentId": 204,
             "ratio": 10,
             "value": 8
           }
         ]
       },
-      "stockTable": {
+      "DCGStockTable": {
         "rows": [
           {
             "id": 201,
@@ -174,35 +174,35 @@
         ]
       },
       "componentRatioList": {
-        "repids": [
+        "componentRatios": [
           {
-            "id": 301,
+            "componentId": 301,
             "ratio": 1,
             "value": 500
           },
           {
-            "id": 302,
+            "componentId": 302,
             "ratio": 2,
             "value": 50
           },
           {
-            "id": 303,
+            "componentId": 303,
             "ratio": 4,
             "value": 30
           },
           {
-            "id": 304,
+            "componentId": 304,
             "ratio": 10,
             "value": 8
           },
           {
-            "id": 305,
+            "componentId": 305,
             "ratio": 2,
             "value": 88
           }
         ]
       },
-      "stockTable": {
+      "DCGStockTable": {
         "rows": [
           {
             "id": 301,
